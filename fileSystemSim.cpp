@@ -1,12 +1,10 @@
 #include <iostream>
 #include <vector>
 #include <bits/stdc++.h>
-// ADD ANY OTHER INCLUDES YOU DEEM NECESSARY
 
 using namespace std;
 
-// THE SKELETON BELOW HAS BEEN PROVIDED TO GIVE YOU IDEAS
-// YOU CAN ADD ANY OTHER COMPONENT YOU WISH TO ADD
+
 class File{
     public:
         string fileName;
